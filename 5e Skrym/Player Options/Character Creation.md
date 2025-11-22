@@ -37,7 +37,7 @@ The world of Skrym has a modified list of [Species](Species/Species.md) for PCs 
 
 ## Classes
 
-See the narrative changes for [Classes](Classes/Class%20List/Classes.md) in the world of Skrym.
+See the narrative changes for [Classes](Classes/Classes.md) in the world of Skrym.
 
 ### Spell Casters
 
