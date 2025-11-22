@@ -40,18 +40,18 @@ Table: Mage Features: —Spell Slots per Spell Level—
 | 6     | +3                | Subclass feature                            | 4        | 10              | 4   | 2   | —   | —   | —   |
 | 7     | +3                | —                                           | 4        | 11              | 4   | 3   | —   | —   | —   |
 | 8     | +3                | Ability Score Improvement                   | 4        | 12              | 4   | 3   | —   | —   | —   |
-| 9     | +4                | —                                           | 4        | 14              | 4   | 3   | 2   | —   | —   |
+| 9     | +4                | —                                           | 5        | 14              | 4   | 3   | 2   | —   | —   |
 | 10    | +4                | Subclass feature                            | 5        | 15              | 4   | 3   | 2   | —   | —   |
 | 11    | +4                | —                                           | 5        | 16              | 4   | 3   | 3   | —   | —   |
 | 12    | +4                | Ability Score Improvement                   | 5        | 16              | 4   | 3   | 3   | —   | —   |
-| 13    | +5                | —                                           | 5        | 17              | 4   | 3   | 3   | 1   | —   |
-| 14    | +5                | Subclass feature                            | 5        | 18              | 4   | 3   | 3   | 1   | —   |
-| 15    | +5                | —                                           | 5        | 19              | 4   | 3   | 3   | 2   | —   |
-| 16    | +5                | Ability Score Improvement                   | 5        | 21              | 4   | 3   | 3   | 2   | —   |
-| 17    | +6                | —                                           | 5        | 22              | 4   | 3   | 3   | 3   | 1   |
-| 18    | +6                | Spell Mastery                               | 5        | 23              | 4   | 3   | 3   | 3   | 1   |
-| 19    | +6                | Epic Boon                                   | 5        | 24              | 4   | 3   | 3   | 3   | 2   |
-| 20    | +6                | Signature Spells                            | 5        | 25              | 4   | 3   | 3   | 3   | 2   |
+| 13    | +5                | —                                           | 6        | 17              | 4   | 3   | 3   | 1   | —   |
+| 14    | +5                | Subclass feature                            | 6        | 18              | 4   | 3   | 3   | 1   | —   |
+| 15    | +5                | —                                           | 6        | 19              | 4   | 3   | 3   | 2   | —   |
+| 16    | +5                | Ability Score Improvement                   | 6        | 21              | 4   | 3   | 3   | 2   | —   |
+| 17    | +6                | —                                           | 7        | 22              | 4   | 3   | 3   | 3   | 1   |
+| 18    | +6                | Spell Mastery                               | 7        | 23              | 4   | 3   | 3   | 3   | 1   |
+| 19    | +6                | Epic Boon                                   | 7        | 24              | 4   | 3   | 3   | 3   | 2   |
+| 20    | +6                | Signature Spells                            | 7        | 25              | 4   | 3   | 3   | 3   | 2   |
 
 ### Level 1: Spellcasting
 
@@ -152,6 +152,8 @@ Beginning when you select a school at 3rd level, the gold and time you must spen
 ### Level 6: School Expert
 
 When you cast a spell from your chosen school, you may treat this instance of the spell as if it were cast using a spell slot one level higher than the one you expended to cast it.
+
+At level 12, this instance increases to two levels higher instead.
 
 ### Level 10: School Master
 
