@@ -66,4 +66,4 @@ Say you want a character who is a big tank like a barbarian, but you want them t
 
 Say you want a classic smart and cunning wizard who studies all day, but you really like the abilities of a warlock, particularly eldritch blast and short rest spells. You can easily do this by imagining you are part of a specific college that studies a particular tradition of magic. Instead of making a supernatural pact with a otherworldly entity, you might of studied in a specific arcane college that focus on the history and magic of the infernal fiends, and that is why you have the fiend subclass.
 
-Optionally, I would even say you could switch the Warlock's primary ability from Charisma to Intelligence since they are both mental abilities whose primary use is spellcasting ability.
+Optionally, you could switch the Warlock's primary ability from Charisma to Intelligence since they are both mental abilities whose primary use is spellcasting ability.

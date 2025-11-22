@@ -10,7 +10,7 @@ As a Dwarf, you have these special traits.
 
 **Darkvision.** You have Darkvision with a range of 120 feet.
 
-**Dwarven Resilience.** You have Resistance to Poison **or** Cold damage, chosen when you create this character. You also have Advantage on saving throws you make to avoid or end the Poisoned condition.
+**Dwarven Resilience.** You have Resistance to Poison **or** Cold damage, chosen when you select this species. You also have Advantage on saving throws you make to avoid or end the Poisoned condition.
 
 **Dwarven Toughness.** Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.
 
