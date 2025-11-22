@@ -16,7 +16,7 @@ An ancient institution of academics that collect arcane knowledge in the Dragon 
 
 The **Bard Colleges** are specialized branches of the Arcane Guild. Some say knowledge is power. The Dragon's say power is power.
 
-See [Restricted Spells](../../../Spellcasting/Restricted%20Spells.md).
+See [Restricted Spells](../../Spellcasting/Restricted%20Spells.md).
 
 *Often contains: Wizards and Bards.*
 
@@ -24,7 +24,7 @@ See [Restricted Spells](../../../Spellcasting/Restricted%20Spells.md).
 
 Most mortal monarchs or councils have their own orders of warriors to whom they entrust their protection and military matters. As members of the Empire, their ultimately fealty is to the Dragon Emperor, but there is often a great degree of civil tensions between the petty fiefdoms, and sometimes it even breaks out into civil wars. The Emperor is largely unconcerned when the mortals fight one another, so long as his taxes and tributes remain intact.
 
-See [Restricted Spells](../../../Spellcasting/Restricted%20Spells.md).
+See [Restricted Spells](../../Spellcasting/Restricted%20Spells.md).
 
 *Often contains: Fighters and Paladins.*
 
@@ -34,7 +34,7 @@ There are many religious orders dedicated to the various different gods in the p
 
 All orders are also subject to the same controls on spells and magic items as the Arcane Guild, though the more disparate power structures mean they are, in practice, not always as tightly controlled as the guild. Less common orders on the outskirts of society might have secret spells for high ranking members once thought lost to the ages.
 
-See [Restricted Spells](../../../Spellcasting/Restricted%20Spells.md).
+See [Restricted Spells](../../Spellcasting/Restricted%20Spells.md).
 
 *Often contains: Clerics and Paladins.*
 

@@ -41,4 +41,4 @@ See the narrative changes for [Classes](Classes/Class%20List/Classes.md) in the 
 
 ### Spell Casters
 
-Any classes that are spell casters need to use [Mana Potion](../Spellcasting/Magicka%20Potion.md)
+Any classes that are spell casters need to use [Mana Potion](Spellcasting/Magicka%20Potion.md)
