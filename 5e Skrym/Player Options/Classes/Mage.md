@@ -6,7 +6,7 @@ Table: Core Mage Traits
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Hit Point Die              | D8 per Mage level                                                                                                                                        |
 | Saving Throw Proficiencies | Intelligence and Wisdom                                                                                                                                  |
-| Skill Proficiencies        | Choose 3: Animal Handling, Arcana, History, Insight, Investigation, Medicine, Nature, or Religion                                                        |
+| Skill Proficiencies        | Choose any 3                                                                                                                                             |
 | Weapon Proficiencies       | Simple weapons                                                                                                                                           |
 | Armor Training             | Light Armor                                                                                                                                              |
 | Starting Equipment         | Choose A or B: (A) Leather Armor, Spear, Light Crossbow, 20 Bolts, Case, Arcane Focus (Staff), Component Pouch, Scholar's Pack, and 40 GP; or (B) 150 GP |
