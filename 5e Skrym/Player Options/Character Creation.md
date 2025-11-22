@@ -26,18 +26,18 @@ Choose any origin feat in the "5.2 SRD" or similar reference document.
 Your background can be anything you want. With it, you get:
 
 - 2 skill proficiencies
-- One of the standard [Languages](Languages.md) (usually chose your species')
+- One of the standard [Languages](Species/Languages.md) (usually chose your species')
 - A tool proficiency and the appropriate tools for it if desired
 - A Dungeoneer's Pack or similar relevant pack
 - 50 GP
 
 ## Species
 
-The world of Skrym has a modified list of [Species](Species.md) for PCs to choose from.
+The world of Skrym has a modified list of [Species](Species/Species.md) for PCs to choose from.
 
 ## Classes
 
-See the narrative changes for [Classes](Classes.md) in the world of Skrym.
+See the narrative changes for [Classes](Classes/Class%20List/Classes.md) in the world of Skrym.
 
 ### Spell Casters
 

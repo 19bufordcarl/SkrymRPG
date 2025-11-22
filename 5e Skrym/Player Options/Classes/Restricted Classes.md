@@ -4,12 +4,12 @@
 
 ## Class List
 
-Player Characters can only be from one of the following classes in the "5.2 SRD" or similar. They should still adhere to the [Knowledge Infrastructures](Classes.md#Knowledge%20Infrastructures) framework for choosing these classes.
+Player Characters can only be from one of the following classes in the "5.2 SRD" or similar. They should still adhere to the [Knowledge Infrastructures](Class%20List/Classes.md#Knowledge%20Infrastructures) framework for choosing these classes.
 
 * **Standard**
 	* Fighter
 	* Rogue
-	* [Mage](Classes/Mage.md) (*Half-Wizard Full Caster Replacement*)
+	* [Mage](Mage.md) (*Half-Wizard Full Caster Replacement*)
 	* Paladin
 * **Rare**
 	* Barbarian
